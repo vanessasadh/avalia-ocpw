@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background-color: #5a228b;
+    background-color: #d5b8ff;
+
 }
 
 #container {
@@ -28,7 +29,7 @@ th, td {
 }
 
 th {
-    border-bottom: 2px solid #5a228b;
+    border-bottom: 2px solid #69829c;
 
     
 
